@@ -2,9 +2,11 @@
 
 ## Motivation
 
-LD score regression is used in the human literature to identify genetic signatures from human GWAS studies that show marked similarities to one another [@zheng2017ld]. To my knowledge, nobody has used LD score regression in a cross-species way. Elissa has commented that GeneWeaver does this, but I believe based upon personal communications with Tim that she is mistaken about what I mean.
+LD score regression is used in the human literature to identify genetic signatures from human GWAS studies that show marked similarities to one another [@zheng2017ld]. To my knowledge, nobody has used LD score regression in a cross-species way. 
 
-The advantage of this methodology would be that one could take a human phenotype such as cocaine use disorder and correlate it with a mouse phenotype such as cocaine IVSA. Neither phenotype would require significant genes to be found; instead, such an LD regression methodology would work on the whole genome structure of the statistical score.
+Elissa has commented that GeneWeaver does this, but I believe based upon personal communications with Tim that she is mistaken about what my specific idea was and how it differs from what GeneWeaver does. The idea I have is not based upon identifying a few defined QTLs, finding the genes, and looking for overlapping genes. Instead, it is about taking an entire genome's worth of QTLs and identifying their correlation with an entire genome's worth of GWAS results.
+
+The advantage of this methodology would be that one could take a human phenotype such as cocaine use disorder and correlate it with a mouse phenotype such as cocaine IVSA. Neither phenotype would require significant QTLs or associations to be found; instead, such an LD regression methodology would work on the whole genome structure of the statistical score.
 
 The advantage of this technique is that it would allow for complex and multigenic strain mouse models for addiction to be validated. Such a technique would also allow for gene finding and regulatory variant finding to be performed in mouse, where resources are much better than they are in humans. If this works, it would be an innately translational method that could be readily applied to translational research.
 
