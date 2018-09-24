@@ -1,7 +1,4 @@
----
-title: "LD Score Regression Between Species"
-output: html_notebook
----
+# Comparative LD Score Regression
 
 ## Motivation
 
